@@ -22,7 +22,7 @@ The Simulink model is self-contained in the heating_system_model.slx file. As de
 
 ## Project Demo Video
 
-Below is a demonstration of me simulating this system on my machine. This is mainly so Dr. Dubey can see that this code was in fact working at one point. In the demo, I ran the simulation, showed the three output graphs, tweaked some parameters, and ran the simulation again. The three output graphs collectively represent the change in room temperatures over time and the placement of the heaters over time.
+Below is a demonstration of me simulating this system on my machine. This is mainly so Dr. Dubey can see that this code was in fact working at one point. In the demo, I ran the simulation, showed the three output graphs, tweaked some parameters, and ran the simulation again.
 
 https://user-images.githubusercontent.com/53628969/208281000-37dcfa70-5550-4f55-8c3c-683ee3a1e20c.mp4
 
