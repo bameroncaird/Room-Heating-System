@@ -23,3 +23,5 @@ The Simulink model is self-contained in the heating_system_model.slx file. As de
 ## Project Demo
 
 Below is a demonstration of me simulating this system on my machine. This is mainly so Dr. Dubey can see that this code was in fact working at one point.
+
+![Project demo.](https://github.com/bameroncaird/Room-Heating-System/blob/main/demo.mp4?raw=true)
