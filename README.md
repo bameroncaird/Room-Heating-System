@@ -12,7 +12,7 @@ This repository contains my Fall 2022 final project for CS6376: Foundations of H
 
 The Simulink model is self-contained in the heating_system_model.slx file. As described in the report, I developed and ran all the code and simulations using the latest version of MATLAB (R2022b) on the Windows 11 Pro operating system. If you need to install the latest version of MATLAB, you can see more about that process [here](https://www.mathworks.com/downloads). To run simulations locally (assuming you have MATLAB installed), follow these steps:
 
-1. Get access to the heating_system_model.slx file, either by cloning this repo or downloading it directly.
+1. Get access to the heating_system_model.slx file, either by cloning this repo or downloading it directly. It's easiest to just download the file.
 
 2. Open the file in Simulink.
 
